@@ -1,0 +1,27 @@
+{
+	"layout":"odd-r",
+	"hexes": {
+		"10":{"id":"10","name":"Gwynedd","q":3,"r":5,"ons_id":"W06000002","CTYUA21CD":"W06000002","CTYUA21NM":"Gwynedd","CTYUA21NMW":"Gwynedd"},
+		"11":{"id":"11","name":"Merthyr Tudful","en":"Merthyr Tydfil","q":5,"r":3,"ons_id":"W06000024","CTYUA21CD":"W06000024","CTYUA21NM":"Merthyr Tydfil","CTYUA21NMW":"Merthyr Tudful"},
+		"12":{"id":"12","name":"Pen y bont ar Ogwr","en":"Bridgend","q":4,"r":2,"ons_id":"W06000013","CTYUA21CD":"W06000013","CTYUA21NM":"Bridgend","CTYUA21NMW":"Pen-y-bont ar Ogwr"},
+		"13":{"id":"13","name":"Powys","q":5,"r":4,"ons_id":"W06000023","CTYUA21CD":"W06000023","CTYUA21NM":"Powys","CTYUA21NMW":"Powys"},
+		"14":{"id":"14","name":"Rhondda Cynon Taf","q":4,"r":3,"ons_id":"W06000016","CTYUA21CD":"W06000016","CTYUA21NM":"Rhondda Cynon Taf","CTYUA21NMW":"Rhondda Cynon Taf"},
+		"15":{"id":"15","name":"Sir Fynwy","en":"Monmouthshire","q":7,"r":3,"ons_id":"W06000021","CTYUA21CD":"W06000021","CTYUA21NM":"Monmouthshire","CTYUA21NMW":"Sir Fynwy"},
+		"16":{"id":"16","name":"Sir Gaerfyrddin","en":"Carmarthenshire","q":2,"r":3,"ons_id":"W06000010","CTYUA21CD":"W06000010","CTYUA21NM":"Carmarthenshire","CTYUA21NMW":"Sir Gaerfyrddin"},
+		"17":{"id":"17","name":"Sir Penfro","en":"Pembrokeshire","q":2,"r":2,"ons_id":"W06000009","CTYUA21CD":"W06000009","CTYUA21NM":"Pembrokeshire","CTYUA21NMW":"Sir Benfro"},
+		"18":{"id":"18","name":"Sir y Ddinbych","en":"Denbighshire","q":5,"r":5,"ons_id":"W06000004","CTYUA21CD":"W06000004","CTYUA21NM":"Denbighshire","CTYUA21NMW":"Sir Ddinbych"},
+		"19":{"id":"19","name":"Sir y Fflint","en":"Flintshire","q":6,"r":6,"ons_id":"W06000005","CTYUA21CD":"W06000005","CTYUA21NM":"Flintshire","CTYUA21NMW":"Sir y Fflint"},
+		"20":{"id":"20","name":"Torfaen","q":7,"r":2,"ons_id":"W06000020","CTYUA21CD":"W06000020","CTYUA21NM":"Torfaen","CTYUA21NMW":"Torfaen"},
+		"21":{"id":"21","name":"Wrecsam","q":6,"r":5,"ons_id":"W06000006","CTYUA21CD":"W06000006","CTYUA21NM":"Wrexham","CTYUA21NMW":"Wrecsam"},
+		"22":{"id":"22","name":"Ynys Mon","en":"Anglesey","q":3,"r":6,"ons_id":"W06000001","CTYUA21CD":"W06000001","CTYUA21NM":"Isle of Anglesey","CTYUA21NMW":"Ynys Môn"},
+		"01":{"id":"01","name":"Abertawe","en":"Swansea","q":3,"r":2,"ons_id":"W06000011","CTYUA21CD":"W06000011","CTYUA21NM":"Swansea","CTYUA21NMW":"Abertawe"},
+		"02":{"id":"02","name":"Blaenau Gwent","q":6,"r":3,"ons_id":"W06000019","CTYUA21CD":"W06000019","CTYUA21NM":"Blaenau Gwent","CTYUA21NMW":"Blaenau Gwent"},
+		"03":{"id":"03","name":"Bro Morgannwg","en":"Vale of Glamorgan","q":4,"r":1,"ons_id":"W06000014","CTYUA21CD":"W06000014","CTYUA21NM":"Vale of Glamorgan","CTYUA21NMW":"Bro Morgannwg"},
+		"04":{"id":"04","name":"Caerdydd","en":"Cardiff","q":5,"r":1,"ons_id":"W06000015","CTYUA21CD":"W06000015","CTYUA21NM":"Cardiff","CTYUA21NMW":"Caerdydd"},
+		"05":{"id":"05","name":"Caerffili","en":"Caerphilly","q":5,"r":2,"ons_id":"W06000018","CTYUA21CD":"W06000018","CTYUA21NM":"Caerphilly","CTYUA21NMW":"Caerffili"},
+		"06":{"id":"06","name":"Castell nedd Port Talbot","en":"Neath Port Talbot","q":3,"r":3,"ons_id":"W06000012","CTYUA21CD":"W06000012","CTYUA21NM":"Neath Port Talbot","CTYUA21NMW":"Castell-nedd Port Talbot"},
+		"07":{"id":"07","name":"Ceredigion","q":4,"r":4,"ons_id":"W06000008","CTYUA21CD":"W06000008","CTYUA21NM":"Ceredigion","CTYUA21NMW":"Ceredigion"},
+		"08":{"id":"08","name":"Conwy","q":4,"r":5,"ons_id":"W06000003","CTYUA21CD":"W06000003","CTYUA21NM":"Conwy","CTYUA21NMW":"Conwy"},
+		"09":{"id":"09","name":"Dinas Casnewydd","en":"Newport","q":6,"r":2,"ons_id":"W06000022","CTYUA21CD":"W06000022","CTYUA21NM":"Newport","CTYUA21NMW":"Casnewydd"}
+	}
+}

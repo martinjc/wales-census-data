@@ -1,0 +1,42 @@
+html,
+body {
+    margin: auto;
+    padding: 0px;
+
+    height: 100%;
+    width: 80%;
+
+    background-color: #eeeeee;
+    font-family: "Open Sans", sans-serif;
+}
+
+main {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 60vh 1fr;
+    grid-gap: 10px;
+
+}
+
+header.drop_target {
+    grid-column: 1 / 3;
+    background-color: cadetblue;
+    border-radius: 30px;
+    text-align: center;
+}
+
+footer {
+    grid-column: 1 / 3;
+    background-color: cadetblue;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.info {
+    visibility: hidden;
+    padding: 30px;
+}
+.info.active {
+    visibility: visible;
+}
